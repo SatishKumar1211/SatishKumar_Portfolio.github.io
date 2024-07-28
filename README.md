@@ -1,3 +1,3 @@
 # SatishKumar_portfolioWebsite.github.io
-Live Demo:
-https://satishkumar1211.github.io/SatishKumar_Portfolio.Website.github.io/
+Try Live:
+https://satishkumar1211.github.io/SatishKumar_Portfolio.github.io/
